@@ -1,0 +1,6 @@
+## Next Steps
+```
+We've made it to the end of the course. Congratulations! We've covered a lot here together, but on some things, we've really only scratched the surface. There's a lot more to learn, and because of how fast this space is moving, there's always going to be a lot more to learn. So let me leave you with some additional resources where you can dig deeper. First, I would say just go try it. You can learn a lot just by using different prompts and seeing what sorts of answers you get, then adjust some parameters, try again, and see how the output changes. Also keep an eye on the Pluralsight library. There's lots of new content being generated around generative AI, so use that as your search term to find the latest. OpenAI has tons of resources as well at openai.com, specifically, check out their blog where they make frequent announcements. And then I've also included a link here to the help article about prompt engineering. And then let me know how things are going. Go to the discussion tab for the course and drop me a note with any cool things that you've learned, and also let me know how I did on the course by giving it a rating. And with that, I'll say, thank you so much for watching. I hope you found it helpful, and I wish you all the best in your prompt engineering and generative AI adventures.
+```
+
+## Notes

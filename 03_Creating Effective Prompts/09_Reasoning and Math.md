@@ -1,0 +1,14 @@
+## Reasoning and Math
+```
+The final type of prompt we're going to look at is for math and reasoning. for this one, I'll start with a disclaimer. Let's actually go ask ChatGPT if it can be used for math and reasoning questions, and we'll see what it says. And the answers will vary here, but I do want to call out things like this here, remember that ChatGPT is just generating things based on patterns. It's predicting what will come next. There's not an actual calculator running behind the scenes, and the same goes for reasoning. It's not truly capable of reasoning, even though it kind of seems like it is sometimes. So it does a pretty good job with simple questions, but even as it says here, if you have complex problems or something that requires precise calculations, then this is probably not the tool you want. But it does a pretty good job with simple stuff. So let's see more about how to prompt for those types of answers. You can do simple arithmetic, even algebra, like solving for X in this equation, and it should do just fine with this type of thing, x = three, correct. We can also do everybody's favorite, the word problem, this one about percentages, and it should have no problem coming up with the original price for this shirt, which was $38. Some simple deductive reasoning, All dogs bark. Rex is a dog. Does Rex bark? And let's see what it says. Yes, Rex barks. And it can even do predictive reasoning, If it's cloudy and the humidity is high, what might happen? Kind of a weather forecast here. It's likely there'll be a lot of precipitation, such as rain or thunderstorms. So hopefully all those examples were helpful, showing the different kinds of prompts you can use based on the thing that you're trying to accomplish. We'll see more advanced techniques later on in the course, but for now, let's summarize this module and move on to the next.
+```
+
+## Notes
+- ChatGPT's capability for math and reasoning queries is based on pattern generation rather than actual computation or logic.
+- It performs well with simple questions but may struggle with complex problems or precise calculations.
+- Math prompts cover a range from basic arithmetic to algebra, efficiently solving equations like x = 3.
+- Word problems, such as percentage calculations for determining the original price of an item, are within its capabilities.
+- Simple deductive reasoning, exemplified by statements like "All dogs bark. Rex is a dog. Does Rex bark?" can be effectively handled.
+- Predictive reasoning, like weather forecasting based on given conditions, showcases ChatGPT's predictive abilities.
+- These examples demonstrate the diversity of prompts achievable for different tasks.
+- Advanced techniques will be explored in subsequent modules, allowing for deeper interactions with AI models.

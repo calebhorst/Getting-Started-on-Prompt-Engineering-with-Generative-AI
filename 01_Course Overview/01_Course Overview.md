@@ -1,0 +1,14 @@
+## Course Overview
+```
+Hi, friends. My name is Amber Israelsen, and welcome to my course, Getting Started on Prompt Engineering with Generative AI. As someone who's worked in technology for about two decades now, I've been pretty amazed by the explosion of artificial intelligence tools and tech that's happened since the release of ChatGPT. The words generative AI are in the news headlines and on the lips of employees and leaders everywhere wondering how to best take advantage of this wave of technology. But with so many tools out there, you might be wondering how to use them most efficiently and effectively. How do you get the AI models to give you high‑quality answers and without a lot of back and forth? Well, I'll tell you, the output is only as good as the input, so that's going to be our focus. In this course, you'll get a foundational understanding of prompt engineering, which is the art and science of asking better questions to get better answers. You'll start by exploring the different types of prompts and how to evaluate their effectiveness. Next, you'll discover more advanced techniques, taking your prompt engineering to the next level. Finally, you'll learn about different ethical considerations around this emerging technology and how to apply best practices to mitigate potential issues. When you're finished with the course, you'll have the skills and knowledge of prompt engineering to get more from your generative AI models. As a getting started course, this is targeted at the broad Pluralsight audience, data practitioners, analysts, machine learning engineers, developers, really anybody wanting to get more from their generative AI tools. You should have a basic understanding of generative AI concepts and a bonus if you've used tools like ChatGPT, Dall‑E 2, or Midjourney, but that's not a hard requirement. And with that, I hope you'll join me in this journey in Getting Started on Prompt Engineering with Generative AI, at Pluralsight.
+```
+
+## Notes
+- **Course Objective:** To equip learners with the skills in prompt engineering, enabling them to optimize AI model outputs through better input strategies.
+
+- **Course Structure:**
+  - **Foundational Understanding:** Explores various prompt types and evaluates their effectiveness.
+  - **Advanced Techniques:** Provides insights into more sophisticated prompt engineering strategies.
+  - **Ethical Considerations:** Addresses ethical concerns and best practices for using generative AI responsibly.
+
+The course emphasizes the critical role of input quality in obtaining high-quality outputs from generative AI models and offers practical guidance for professionals across various disciplines.

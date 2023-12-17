@@ -1,0 +1,17 @@
+## Prompt Engineering Strategies to Address Ethical Concerns
+```
+The ethical concerns we covered in the last clip are big and complicated. But from a prompt engineering perspective, let's talk about some small things we can do to help mitigate them. Starting with privacy concerns and what we can do from a prompt perspective, if you're creating chatbots or other apps that interact with customers, you can design prompts that explicitly instruct the AI not to produce or seek sensitive personal information from the customer and then a general reminder to adhere to privacy and security protocols. As far as misinformation goes, we can craft our prompts to ask the AI to provide sources for information or to generate content based on well‑verified data. So stick to widely accepted facts from credible sources. To help mitigate bias, prompts can be explicitly designed to encourage neutrality and to cover multiple viewpoints. So asking it to provide a balanced view, consider strengths and weaknesses without favoring any particular genre for this movie in the example. And remember, AI models don't personally have biases or opinions. They're just creating responses based on the data that they were trained on. But because that data might include bias, it can be helpful to instruct them to include multiple viewpoints. On the question of ownership and copyright, the big concern is who owns the output. Prompt engineering can't really solve that problem, but we can help ensure that it doesn't generate things that violate existing copyrights. If we're writing a short story, for example, we can say create unique characters and then ensure content is original and doesn't infringe upon existing copyrights or use copyrighted material. And then for transparency, we won't be able to crack open the full black box of AI models, but we can at least get a little bit of insight through prompt crafting. So things like detail your reasoning or think step by step like we saw earlier, that will give you a more detailed response at how the model arrived at its answer.
+```
+
+## Notes
+- **Privacy concerns:** Craft prompts that explicitly guide AI not to request or generate sensitive personal information. Incorporate reminders to adhere to privacy and security protocols.
+
+- **Misinformation:** Design prompts that ask the AI to provide sources for information or generate content based on well-verified data from credible sources, emphasizing widely accepted facts.
+
+- **Bias mitigation:** Explicitly design prompts encouraging neutrality and the inclusion of multiple viewpoints. Instruct the AI to present balanced views, considering strengths and weaknesses without favoring specific perspectives.
+
+- **Ownership and copyright:** While prompt engineering can't resolve ownership issues, it can help avoid generating content that infringes on existing copyrights. Prompt it to create original content and avoid using copyrighted material.
+
+- **Transparency:** Although AI models operate as black boxes, crafting prompts like "detail your reasoning" or "think step by step" can encourage the AI to provide more detailed insights into its decision-making process.
+
+These strategies aim to guide the AI's responses, nudging it toward ethical and responsible behavior within the constraints of prompt engineering.
